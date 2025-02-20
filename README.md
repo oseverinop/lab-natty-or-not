@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: Inteligência Artificial para Todos: O Plano que Vai Mudar o Brasil
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book oferece uma visão detalhada do Plano Brasileiro de Inteligência Artificial (PBIA) 2024-2028, destacando seus objetivos, benefícios e desafios. Com o intuito de atrair e engajar profissionais e entusiastas da tecnologia, o e-book explora como a IA pode transformar diversos setores, desde a saúde até a segurança pública, promovendo inovação, inclusão social e desenvolvimento econômico. Participe desta jornada para construir um Brasil mais inteligente e sustentável!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot para organizar informações, criar o roteiro, sugerir títulos, criar rascunhos e revisar o texto.
+Google Gemini para criar as imagens
+Google Documentos para criar o e-book
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Iniciei pela pesquisa sobre o Plano Brasileiro de Inteligência Artificial na internet e então passei para organização de informações, criação do roteiro, escolha do título, criação dos rascunhos e revisão o texto. Em seguida, trabalhei a criação de imagens. Por fim, reuni o texto e as imagens no documento final.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Para ler o e-book, acesse <a href="https://drive.google.com/file/d/1_f-UrPOOqj4K2IgIJePrOHdo3GfYzu46/view?usp=sharing">Inteligência Artificial para Todos: O Plano que Vai Mudar o Brasil</a>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Esse projeto foi um experiência interessante. A parte de elaboração do texto foi mais fácil, pois tenho mais experiência. A geração das imagens foi mais difícil, pois o processo de elaboração do prompt e do refinamento do resultado demandam uma forma de pensamento diferente da parte textual para que a qualidade do resultado seja boa. Além disso, as ferramentas usadas possuem filtros e políticas que afetam o resultado.
